@@ -3,7 +3,7 @@ import { Route,Routes,Navigate } from 'react-router-dom'
 import MapPage from '../pages/MapPage'
 import FavoritesPage from '../pages/FavoritesPage'
 import AboutPage from '../pages/AboutPage'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 import { FavoritesProvider } from '../../contexts/FavoritesContext'
 
 const App = () => {
